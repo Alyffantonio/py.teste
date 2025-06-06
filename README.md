@@ -52,7 +52,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
     POSTGRES_USER=seu_usuario
     POSTGRES_PASSWORD=sua_senha
     POSTGRES_DB=f1_db
-    DB_HOST=postgres
+    DB_HOST=localhost #com docker ficaria local.docker.internal
     DB_PORT=5432
     ```
 
