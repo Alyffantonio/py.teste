@@ -4,7 +4,7 @@
 
 Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga) para processar dados de corridas de Fórmula 1. Os dados são extraídos de arquivos CSV, transformados usando a biblioteca Pandas em Python e, em seguida, carregados em um banco de dados PostgreSQL. O ambiente do projeto é totalmente containerizado usando Docker e Docker Compose, facilitando a configuração e a execução.
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 - **Extração**: Lê dados de construtores, pilotos, corridas e resultados a partir de arquivos CSV.
 - **Transformação**: Realiza a limpeza e o pré-processamento dos dados, como a conversão de tipos de dados, tratamento de valores ausentes e a criação de novas colunas para análise.
@@ -13,7 +13,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 - **Análise**: Fornece queries SQL prontas para análises, como o desempenho em corridas e as voltas mais rápidas.
 - **Ambiente Dockerizado**: Utiliza Docker Compose para orquestrar os serviços da aplicação (aplicação Python e banco de dados PostgreSQL), garantindo um ambiente de desenvolvimento e produção consistente e de fácil configuração.
 
-## Tecnologias Utilizadas
+## 🛠  Tecnologias Utilizadas
 
 - **Linguagem de Programação**: Python 3.12
 - **Banco de Dados**: PostgreSQL
@@ -25,7 +25,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
   - `python-slugify`, `unidecode`: Para manipulação de strings.
 - **Containerização**: Docker & Docker Compose
 
-## Estrutura do Projeto
+## 🚀 Estrutura do Projeto
 
 .
 ![image](https://github.com/user-attachments/assets/2fb2897c-3b2b-4073-b195-08e5583bcd27)
