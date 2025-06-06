@@ -49,9 +49,9 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 2.  **Variáveis de Ambiente**:
     Crie um arquivo `.env` na raiz do projeto, seguindo o exemplo do arquivo `.env_example` (não fornecido, mas inferido a partir do código). Este arquivo deve conter as credenciais e configurações do banco de dados.
     ```env
-    POSTGRES_USER=seu_usuario
-    POSTGRES_PASSWORD=sua_senha
-    POSTGRES_DB=f1_db
+    POSTGRES_USER=admin
+    POSTGRES_PASSWORD=admin
+    POSTGRES_DB=formula_db
     DB_HOST=localhost #com docker ficaria local.docker.internal
     DB_PORT=5432
     ```
