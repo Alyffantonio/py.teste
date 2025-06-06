@@ -42,8 +42,8 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 
 1.  **Clone o repositório** (se aplicável):
     ```bash
-    git clone <url-do-seu-repositorio>
-    cd <nome-do-repositorio>
+    git clone <https://github.com/Alyffantonio/py.teste.git>
+    cd <py.teste>
     ```
 
 2.  **Variáveis de Ambiente**:
