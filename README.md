@@ -92,3 +92,6 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 - **`create_views.sql`**: Cria views SQL para simplificar consultas de análise complexas.
 - **`query_*.sql`**: Contém exemplos de consultas para extrair insights dos dados, como identificar as voltas mais rápidas.
 
+
+## Autor
+- **Alyff antonio**
