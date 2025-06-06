@@ -1,1 +1,1 @@
-SELECT * FROM racer_performance LIMIT 10;
+SELECT * FROM resultado_corredores_por_ano LIMIT 10;

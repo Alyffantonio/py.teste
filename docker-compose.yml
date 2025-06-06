@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    container_name: f1_data_pipeline
+    env_file:
+      - .env
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    stdin_open: true
+    tty: true
