@@ -28,24 +28,8 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 ## Estrutura do Projeto
 
 .
-├── docker-compose.yml      
-├── extraction/            
-│   ├── constructors.csv
-│   ├── drivers.csv
-│   ├── races.csv
-│   └── results.csv
-├── main.py                 
-├── requirements.txt        
-├── scripts_db/             
-│   ├── create_table.sql
-│   ├── create_views.sql
-│   ├── query_fast_lap.sql
-│   └── query_race_perform.sql
-└── src/                   
-├── extraction.py
-├── loading.py
-├── setup_db.py
-└── transformation.py
+![image](https://github.com/user-attachments/assets/2fb2897c-3b2b-4073-b195-08e5583bcd27)
+
 
 ## Como Executar o Projeto
 
